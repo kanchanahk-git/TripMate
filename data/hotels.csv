@@ -1,0 +1,17 @@
+hotel_id,city,name,price_per_night,rating,category,amenities
+1,Goa,Beachside Budget Inn,1500,3.8,budget,wifi
+2,Goa,Calangute Comfort Stay,3500,4.2,comfort,wifi | breakfast | pool
+3,Goa,Luxury Sands Resort,9000,4.7,luxury,wifi | breakfast | pool | spa
+4,Mysuru,Palace Road Lodge,1200,3.9,budget,wifi
+5,Mysuru,Hotel Pai Vista,3000,4.2,comfort,wifi | breakfast | parking
+6,Mysuru,Aishwarya Residency,2500,3.7,budget,wifi | parking
+7,Mysuru,ibis Styles Mysuru,5000,4.4,luxury,wifi | breakfast | pool | parking
+8,Gokarna,Om Beach Hut,1000,3.7,budget,wifi
+9,Gokarna,Kudle Comfort Stay,2800,4.1,comfort,wifi|breakfast
+10,Gokarna,Cliffside Luxury Resort,7000,4.5,luxury,wifi|breakfast|pool
+11,Manali,Hotel Kunzam,2200,4.1,budget,wifi|parking|restaurant
+12,Manali,Hotel Ibex,3000,3.8,comfort,wifi|restaurant|parking
+13,Manali,Welcomhotel By ITC Hotels Hamsa Manali,16000,4.6,luxury,wifi|breakfast|pool|spa
+14,Jaipur,Pink City Lodge,1300,3.8,budget,wifi
+15,Jaipur,Amer Road Comfort Inn,3000,4.2,comfort,wifi|breakfast
+16,Jaipur,Royal Heritage Palace,8500,4.6,luxury,wifi|breakfast|pool|spa

@@ -1,0 +1,14 @@
+source_city,dest_city,mode,approx_cost,duration_hours
+Bengaluru,Goa,bus,1200,10
+Bengaluru,Goa,train,700,12
+Bengaluru,Goa,flight,3500,1.5
+Bengaluru,Mysuru,bus,250,3
+Bengaluru,Mysuru,train,200,2.5
+Bengaluru,Gokarna,bus,1000,10
+Bengaluru,Gokarna,train,600,12
+Bengaluru,Manali,bus,3000,45
+Bengaluru,Manali,train,2200,40
+Bengaluru,Manali,flight,7000,6
+Bengaluru,Jaipur,flight,5000,2.5
+Bengaluru,Jaipur,train,1800,34
+Bengaluru,Jaipur,bus,2800,36
